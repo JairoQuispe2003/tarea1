@@ -2,32 +2,32 @@
     "producto":[
         {
             "Id":1,
-            "Descripción": "Mouse",
+            "Descripcion": "Mouse",
             "Precio" : "30.00"
         },
         {
             "Id":2,
-            "Descripción": "Mouse",
+            "Descripcion": "Mouse",
             "Precio" : "30.00"
         },
         {
             "Id":3,
-            "Descripción": "Pantalla",
+            "Descripcion": "Pantalla",
             "Precio" : "30.00"
         },
         {
             "Id":4,
-            "Descripción": "Memoria RaM",
+            "Descripcion": "Memoria RaM",
             "Precio" : "30.00"
         },
         {
             "Id":5,
-            "Descripción": "Case",
+            "Descripcion": "Case",
             "Precio" : "120.00"
         },
         {
             "Id":6,
-            "Descripción": "Teclado",
+            "Descripcion": "Teclado",
             "Precio" : "25.00"
         }
 
