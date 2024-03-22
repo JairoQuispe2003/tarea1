@@ -3,32 +3,38 @@
         {
             "Id":1,
             "Descripcion": "Mouse",
-            "Precio" : "30.00"
+            "Precio" : "30.00",
+            "Imagen" : "https://consumer.huawei.com/content/dam/huawei-cbg-site/common/mkt/pdp/accessories/wireless-mouse-gt/specs-img.jpg"
         },
         {
             "Id":2,
             "Descripcion": "Mouse",
-            "Precio" : "30.00"
+            "Precio" : "30.00",
+            "Imagen" : "https://tecsoftcomputer.com.pe/102-large_default/mouse-optico-microsoft-basic-optical.jpg"
         },
         {
             "Id":3,
             "Descripcion": "Pantalla",
-            "Precio" : "30.00"
+            "Precio" : "30.00",
+            "Imagen" : "https://www.lg.com/content/dam/channel/wcms/pe/images/monitores/27gn65r-b_awf_espr_pe_c/27GN65R-B_AWF_ESPR_PE_C-450x450.jpg"
         },
         {
             "Id":4,
             "Descripcion": "Memoria RaM",
-            "Precio" : "30.00"
+            "Precio" : "30.00",
+            "Imagen" : "https://i.blogs.es/42188f/ram/1366_2000.jpg"
         },
         {
             "Id":5,
             "Descripcion": "Case",
-            "Precio" : "120.00"
+            "Precio" : "120.00",
+            "Imagen" : "https://imagenes.deltron.com.pe/images/productos/on-line/items/large/cs/at/csatxte1164n.jpg"
         },
         {
             "Id":6,
             "Descripcion": "Teclado",
-            "Precio" : "25.00"
+            "Precio" : "25.00",
+            "Imagen" : "https://www.shutterstock.com/image-photo/gaming-keyboard-rgb-light-isolated-260nw-2172968125.jpg"
         }
 
     ]
